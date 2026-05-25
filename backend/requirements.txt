@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+nltk
+pymongo
+passlib[bcrypt]
+python-jose[cryptography]
+python-dotenv
+email-validator
